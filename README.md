@@ -14,7 +14,7 @@ E aí? Tudo ótimo? Sou Geanderson, estudante de tecnologia, cursando Análise e
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C#-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C#-000000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ## GitHub Stats 🚦
