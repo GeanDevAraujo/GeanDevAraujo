@@ -21,4 +21,4 @@ E aí? Tudo ótimo? Sou Geanderson, estudante de tecnologia, cursando Análise e
 
 ## Minhas Contribuições 📚
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=GeanDevAraujo&repo=DOM-Projetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=61DAFBtext_color=FFF)](https://github.com/GeanDevAraujo/DOM-Projetos)
+(https://github-readme-stats.vercel.app/api/pin/?username=GeanDevAraujo&repo=DOM-Projetos&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=61DAFBtext_color=FFF)](https://github.com/GeanDevAraujo/DOM-Projetos)
