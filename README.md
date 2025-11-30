@@ -20,7 +20,7 @@ E aí? Tudo ótimo? Sou Geanderson, estudante de tecnologia, cursando Análise e
 
 ## GitHub Stats 🚦
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GeanDevAraujo&theme=transparent&bg_color=000&border_color=61DAFB&show_icons=true&icon_color=30A3DC&title_color=61DAFBtext_color=FFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?)username=GeanDevAraujo&theme=transparent&bg_color=000&border_color=61DAFB&show_icons=true&icon_color=30A3DC&title_color=61DAFBtext_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GeanDevAraujo&layout=compact&bg_color=000&border_color=61DAFB&title_color=61DAFBtext_color=FFF)
 
